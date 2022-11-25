@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Rangel</h1>
-<h3 align="center">A frontend developer student from Venezuela c:</h3>
+<h3 align="center">A frontend developer student :D</h3>
 
 - 🌱 I’m currently learning **HTML, CSS Responsive Design**
 
