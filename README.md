@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeref</h1>
-<h3 align="center">A frontend developer student :D</h3>
+<h3 align="center">A Software Engineer Student.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS Responsive Design**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
